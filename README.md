@@ -2,7 +2,7 @@
 
 **HP制作 / AIエージェント / FDE / x402 developer**
 
-小さなお店・事業者のホームページ制作と、AIエージェントが使う日本データAPIの開発・運用。設計から実装、届けて動かすところまで、ひとりでやっています。
+小さなお店・事業者のホームページ制作と、AIエージェントが使う日本データAPIの開発・運用。設計から実装、届けて動かすところまで。
 Independent developer — small-business websites, agent-payable APIs on x402, and forward-deployed engineering. Niigata, Japan.
 
 ## 🏢 Kaisha API — Japan Company Registry for AI Agents
