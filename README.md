@@ -10,7 +10,7 @@ Independent developer — small-business websites, agent-payable APIs on x402, a
 Official-registry data for **all 5.76M Japanese corporations** + 5.05M invoice registrations, priced per call via x402 (USDC on Base & Solana). No API keys — the paying wallet is the account.
 
 - API: https://kaisha-api.hp-vladic.workers.dev
-- MCP: `npx -y kaisha-mcp` ([npm](https://www.npmjs.com/package/kaisha-mcp))
+- MCP: `npx -y kaisha-mcp` ([source](https://github.com/vladic-corp/kaisha-mcp) · [npm](https://www.npmjs.com/package/kaisha-mcp))
 - Listed on [x402scan](https://www.x402scan.com/server/a3937fba-de2e-41e6-b57b-048132e91d0a)
 
 ## 🖥️ Web studio
